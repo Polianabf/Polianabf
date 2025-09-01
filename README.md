@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Eu sou a Poliana Ferreira!</h2>
+<h2 align="left">Olá 👋! Eu sua a Poliana Ferreira!</h2>
 
 ###
 
